@@ -81,8 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Cure Method
                 </div>
+                <p><?= date('Y/m/d') ?></p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
